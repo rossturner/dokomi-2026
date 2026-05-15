@@ -1,0 +1,1 @@
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/dokomi-2026/sw.js', { scope: '/dokomi-2026/' })})}

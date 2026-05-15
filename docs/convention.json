@@ -1,0 +1,599 @@
+[
+  {
+    "slug": "appleseed",
+    "goesBy": "appleseed先生",
+    "hall": "Hall 5",
+    "booth": "5L46",
+    "languages": [
+      "Japanese",
+      "English"
+    ],
+    "blurb": "Ecchi/18+ illustrator drawing fanart of popular gacha and anime franchises; exhibits in DoKomi's Seijin (adult) area. Posts on Twitter and Pixiv with a polished anime-illustration style.",
+    "socials": {
+      "twitter": "@appleseed_art"
+    },
+    "links": [
+      {
+        "label": "pixiv.net",
+        "url": "https://www.pixiv.net/users/68374571"
+      }
+    ]
+  },
+  {
+    "slug": "bangsom",
+    "goesBy": "BANGSOM",
+    "hall": "Hall 3",
+    "booth": "3V11",
+    "languages": [
+      "Korean",
+      "English"
+    ],
+    "blurb": "Korean illustrator (FEVERCELL studio) best known for the ongoing 'Ballerina' original-character doujinshi/artbook series following three OCs striving to become prima donnas, with new volumes released at Comiket. Polished painterly style; also active on ArtStation, Pixiv and Twitch. Past Coloso instructor (2022 web novel cover VOD course, now delisted). Currently teaches on FEVERCELL Academy.",
+    "socials": {
+      "twitter": "@_bangsom"
+    },
+    "links": [
+      {
+        "label": "twitch.tv",
+        "url": "https://www.twitch.tv/bangsom"
+      }
+    ]
+  },
+  {
+    "slug": "beryl",
+    "goesBy": "Beryl",
+    "hall": "Hall 5",
+    "booth": "5G38",
+    "languages": [
+      "English",
+      "Japanese"
+    ],
+    "blurb": "Bilingual freelance VTuber illustrator and part-time streamer specialising in cute anime girls; professional credits include character/promo art for Nijisanji JP, Neo-Porte, PhaseConnect, nqrse and various indie VTubers. Sells OC and Hololive artbooks, acrylic standees, key holders and prints (recent fandoms: Azur Lane, Sousou no Frieren, Bocchi the Rock); also distributes VTuber-asset materials and timelapse tutorials via Booth, Etsy, Fanbox and Ko-fi.",
+    "socials": {
+      "instagram": "@blueberylpie",
+      "twitter": "@blueberylpie"
+    },
+    "links": [
+      {
+        "label": "lit.link",
+        "url": "https://lit.link/en/bluberyl"
+      },
+      {
+        "label": "twitch.tv",
+        "url": "https://www.twitch.tv/blueberylpie"
+      },
+      {
+        "label": "etsy.com",
+        "url": "https://www.etsy.com/shop/Blueberylpie"
+      }
+    ]
+  },
+  {
+    "slug": "bura",
+    "goesBy": "Bura",
+    "hall": "Hall 3",
+    "booth": "3N47",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "blurb": "Chilean illustrator and indie game developer making fanart-driven merch by hand: prints, stickers, stationery and textiles, with subjects including Baldur's Gate 3, Resident Evil 4 and Alien Stage. Inspiration explicitly from games and dogs; everything in shop described as 100% handmade.",
+    "socials": {
+      "instagram": "@burasto",
+      "twitter": "@Burasto"
+    },
+    "links": [
+      {
+        "label": "burasto.com",
+        "url": "https://www.burasto.com/"
+      }
+    ]
+  },
+  {
+    "slug": "cauli",
+    "goesBy": "cauli",
+    "hall": "Hall 3",
+    "booth": "3L40",
+    "languages": [
+      "English"
+    ],
+    "blurb": "Canada-based hololive fanartist focused on Takanashi Kiara (multiple anniversary/happi projects), Nerissa Ravencroft and Advent/Justice members, plus an OC named Noa. Works in both digital illustration and Copic marker on shikishi boards; sells prints, acrylic standees, charms and sticker sheets, and streams art on Twitch.",
+    "socials": {
+      "instagram": "@caulissimo",
+      "twitter": "@CAULISSIMO"
+    },
+    "links": [
+      {
+        "label": "cauli.carrd.co",
+        "url": "https://cauli.carrd.co"
+      },
+      {
+        "label": "twitch.tv",
+        "url": "https://twitch.tv/cauliart"
+      }
+    ]
+  },
+  {
+    "slug": "djamila-knopf",
+    "goesBy": "Djamila Knopf",
+    "hall": "Hall 3",
+    "booth": "3G35",
+    "languages": [
+      "English",
+      "German"
+    ],
+    "blurb": "Leipzig-based illustrator and concept artist known for atmospheric, story-driven anime-influenced illustrations (libraries, forests, seaside towns) with painterly digital style. Already an established online educator: teaches the 'Story Driven Illustrations' concept-art course on Schoolism, runs a Patreon, sells an art book, and posts process content on YouTube and Instagram (~496k).",
+    "socials": {
+      "instagram": "@djamilaknopf"
+    },
+    "links": []
+  },
+  {
+    "slug": "nana",
+    "goesBy": "Nana",
+    "hall": "Hall 5",
+    "booth": "5P52",
+    "languages": [
+      "English"
+    ],
+    "blurb": "Founder of EXPULSE, an 'artistic waifu' apparel and art brand built around original characters Nana and Zenith from her ongoing 'Z7 Project'. Mature/elegant anime-style illustration with apparel as the core product line, plus art books, prints, charms, keychains and stickers; also fanart for Zenless Zone Zero, Arknights: Endfield, NIKKE, Love and Deepspace, Apothecary Diaries, Dungeon Meshi. Coloso instructor: 'Completing Your Journey of Character Creation and Illustration'.",
+    "socials": {
+      "instagram": "@expulse_d",
+      "twitter": "@expulse_d",
+      "bluesky": "@expulse.bsky.social"
+    },
+    "links": [
+      {
+        "label": "expulse.shop",
+        "url": "https://expulse.shop/"
+      },
+      {
+        "label": "patreon.com",
+        "url": "https://patreon.com/expulse_d"
+      }
+    ]
+  },
+  {
+    "slug": "feihai",
+    "goesBy": "FeiHai",
+    "hall": "Hall 3",
+    "booth": "3H31",
+    "languages": [
+      "English",
+      "Indonesian"
+    ],
+    "blurb": "Indonesian freelance illustrator doing semi-realistic anime/game fanart, with a portfolio heavy on Arcane, The Witcher and Valorant character pieces. Sells prints/merch at conventions and takes commissions; explicitly NoAI.",
+    "socials": {
+      "instagram": "@feihai1096",
+      "twitter": "@feihai1096"
+    },
+    "links": [
+      {
+        "label": "artstation.com",
+        "url": "https://www.artstation.com/feihai"
+      }
+    ]
+  },
+  {
+    "slug": "hanh-chu",
+    "goesBy": "Hanh Chu",
+    "hall": "Hall 5",
+    "booth": "5P08",
+    "languages": [
+      "English",
+      "Vietnamese"
+    ],
+    "blurb": "Toronto-based freelance 2D artist who has produced official illustrations for NIKKE: Goddess of Victory (e.g. Nayuta, Blanc, Leona) plus fan ecchi art for Zenless Zone Zero, Azur Lane, Uma Musume and Bowndust 2. Sells prints, charms, deskmats, oppai mousepads, standees, photocards and artbooks via Etsy (HanhChustore).",
+    "socials": {
+      "twitter": "@Hanh_R_A"
+    },
+    "links": [
+      {
+        "label": "hanhchustore.etsy.com",
+        "url": "https://hanhchustore.etsy.com"
+      }
+    ]
+  },
+  {
+    "slug": "jk",
+    "goesBy": "J.K.",
+    "hall": "Hall 5",
+    "booth": "5M29",
+    "languages": [
+      "English"
+    ],
+    "blurb": "High-profile anime fanart illustrator (550k+ on Twitter) drawing characters from Chainsaw Man (Makima), Evangelion (Asuka), Fate (Jeanne d'Arc), Vocaloid (Hatsune Miku), Death Note, Danganronpa and Bleach. Sells 11x17 poster prints and acrylic charms via own Shopify store, runs a Patreon, and already teaches a beginner illustration course on Coloso ('The Beginner Artist's Compass: Creating Your Own Bold Characters'). Coloso instructor: 'The Beginner Artist's Compass: Creating Your Own Bold Characters'.",
+    "socials": {
+      "instagram": "@jdotkdot5",
+      "twitter": "@jdotkdot5"
+    },
+    "links": []
+  },
+  {
+    "slug": "lucid",
+    "goesBy": "Lucid",
+    "hall": "Hall 3",
+    "booth": "3G15",
+    "languages": [
+      "English"
+    ],
+    "blurb": "Freelance 2D character designer and illustrator focused on games, manga and tech subjects; specialises in character design and illustrations for print, merchandise and large-form projects. Works in Paint Tool SAI and Photoshop; streams on Twitch.",
+    "socials": {
+      "instagram": "@lucidskyart",
+      "twitter": "@Lu_cid_sky"
+    },
+    "links": []
+  },
+  {
+    "slug": "miyu",
+    "goesBy": "Miyu",
+    "hall": "Hall 5",
+    "booth": "5F57",
+    "languages": [
+      "German",
+      "English"
+    ],
+    "blurb": "German shoujo/fantasy/ecchi illustrator with a heavy fanart practice across Genshin Impact, Hololive, Pokémon and Azur Lane (acrylic standees, keychains, mousepads, pillows, gold-foil prints, button sets, vinyl stickers). Also produces NSFW doujinshi (e.g. \"Keqing x Zhongli\") and the \"My Secrets\" softcover artbook, plus a \"Lines On Paper II\" lineart artbook for study/reference. Works in Clip Studio Paint on iPad Pro after years of traditional art.",
+    "socials": {
+      "instagram": "@miyulein",
+      "twitter": "@Miyulein"
+    },
+    "links": [
+      {
+        "label": "miyusart.com",
+        "url": "https://www.miyusart.com"
+      },
+      {
+        "label": "patreon.com",
+        "url": "https://patreon.com/Miyulein"
+      },
+      {
+        "label": "miiyu.fanbox.cc",
+        "url": "https://miiyu.fanbox.cc"
+      }
+    ]
+  },
+  {
+    "slug": "nai",
+    "goesBy": "nai",
+    "hall": "Hall 10",
+    "booth": "10E22",
+    "languages": [
+      "English"
+    ],
+    "blurb": "Illustrator and Live2D artist; Twitch Partner. Soft, low-saturation \"cute girls and cute animals\" character work with a recurring \"Naii\" / \"Gala Naii\" OC universe under her own art tag #NaiiArt. Heavy Hololive VTuber fanart practice including Ninomae Ina'nis (#inART), Raora Panthera (Justice), plus Shylily fanart. Sells prints, stickers and plushies (Chatokkis OC line) and works professionally on Live2D rigging, character design, ASMR Live2D models and chibi commissions.",
+    "socials": {
+      "instagram": "@naiichie",
+      "twitter": "@naiichie"
+    },
+    "links": [
+      {
+        "label": "naiichie.art",
+        "url": "https://naiichie.art"
+      },
+      {
+        "label": "twitch.tv",
+        "url": "https://twitch.tv/naiichie"
+      },
+      {
+        "label": "naiilink.carrd.co",
+        "url": "https://naiilink.carrd.co"
+      }
+    ]
+  },
+  {
+    "slug": "namii",
+    "goesBy": "Namii",
+    "hall": "Hall 3",
+    "booth": "3L39",
+    "languages": [
+      "English"
+    ],
+    "blurb": "Hololive EN VTuber fanart illustrator with recurring focus on IRyS (pinned: \"Maid or Ojou-sama?\" #IRySart), Mori Calliope (\"Maidronii\" series), Raora Panthera (#RaorArt), FUWAMOCO/Fuwawa & Mococo (#FWMCpix) and Hakos Baelz. Polished, expressive anime illustration with consistently high-engagement posts (multiple tweets in 50k+ likes range; one at 92k). Sells prints, acrylic standees and keychains at cons.",
+    "socials": {
+      "twitter": "@NAMIORII"
+    },
+    "links": [
+      {
+        "label": "pixiv.net",
+        "url": "https://www.pixiv.net/en/users/45643813"
+      },
+      {
+        "label": "patreon.com",
+        "url": "https://patreon.com/namiorii"
+      }
+    ]
+  },
+  {
+    "slug": "pinlin",
+    "goesBy": "Pinlin",
+    "hall": "Hall 3",
+    "booth": "3E43",
+    "languages": [
+      "English"
+    ],
+    "blurb": "Character designer and illustrator focused on harmony of colour, light and perspective. Credits include cover/character art for the 'Dark Nights' visual novel series on Steam and the webtoon 'Monochrome Meets Color'. Already produces digital illustration courses and runs Ko-fi, ink commissions and a merch shop. Coloso instructor: 'The Journey of Creating Stylized Art: Story-Driven Character and Environment Building'.",
+    "socials": {
+      "instagram": "@pinlinz",
+      "twitter": "@_Pinlin"
+    },
+    "links": [
+      {
+        "label": "pinlin.carrd.co",
+        "url": "https://pinlin.carrd.co/"
+      }
+    ]
+  },
+  {
+    "slug": "lvl",
+    "goesBy": "lvl",
+    "hall": "Hall 3",
+    "booth": "3K49",
+    "languages": [
+      "Cantonese",
+      "English",
+      "Mandarin",
+      "Japanese"
+    ],
+    "blurb": "Hong Kong-based freelance illustrator with 10+ years industry experience (3 years storyboarding in Sydney, 4 years motion graphics in Hong Kong; UNSW digital media graduate, 2012). Heavy Nijisanji EN/JP fanart focus plus paid VTuber merchandise commissions (Shoto 2024, brookiecookieVR 2023). Full creative service offering: digital illustration, logo design, packaging design, motion graphics, plus traditional outputs (prints, manga, pins, acrylics, fabric merch, t-shirts). Tools: Clip Studio Pro, Photoshop, Illustrator, After Effects.",
+    "socials": {
+      "instagram": "@_lvlg",
+      "twitter": "@lvlg_illust"
+    },
+    "links": [
+      {
+        "label": "lvlg.weebly.com",
+        "url": "https://lvlg.weebly.com/"
+      },
+      {
+        "label": "etsy.com",
+        "url": "https://www.etsy.com/shop/PolarisNoIII"
+      },
+      {
+        "label": "inprnt.com",
+        "url": "https://www.inprnt.com/profile/_lvlg/"
+      },
+      {
+        "label": "poipiku.com",
+        "url": "https://poipiku.com/404160/"
+      }
+    ]
+  },
+  {
+    "slug": "ruca",
+    "goesBy": "ruca",
+    "hall": "Hall 5",
+    "booth": "5F54",
+    "languages": [
+      "English"
+    ],
+    "blurb": "Anime/manga illustrator and cosplayer with massive Twitter engagement (multiple posts in 100k–300k like range; views routinely 1M–15M). Recurring subjects include Nerissa Ravencroft / Hololive (#RavenCrafts, top-engagement series), Yor (Spy x Family), Stelle (Honkai Star Rail), NIKKE characters, and Pekomama (Hololive). Sells digital prints via own US store; 18+ exclusives gated behind Patreon with an itch.io archive on the side. Personal commissions not accepted.",
+    "socials": {
+      "instagram": "@rucarachi",
+      "twitter": "@rucarachi"
+    },
+    "links": [
+      {
+        "label": "rucarachi.crd.co",
+        "url": "https://rucarachi.crd.co"
+      },
+      {
+        "label": "rucafolio.crd.co",
+        "url": "https://rucafolio.crd.co"
+      },
+      {
+        "label": "patreon.com",
+        "url": "https://patreon.com/rucarachi"
+      }
+    ]
+  },
+  {
+    "slug": "sabs",
+    "goesBy": "Sabs",
+    "hall": "Hall 3",
+    "booth": "3V13",
+    "languages": [
+      "English"
+    ],
+    "blurb": "UK tattoo artist (~11 years, Golden Goose Tattoo, Birmingham) and illustration grad specialising in bold-colour pop culture tattoos: anime, video games and film/TV. Flash sheets cover Pokemon, Hazbin Hotel (Angel Dust), Spy x Family, MHA-style etc.; also sells kawaii prints/stickers/merch on the convention circuit.",
+    "socials": {
+      "instagram": "@sabstars"
+    },
+    "links": [
+      {
+        "label": "getink.app",
+        "url": "https://www.getink.app/artists/sabstars"
+      }
+    ]
+  },
+  {
+    "slug": "leyla",
+    "goesBy": "Leyla",
+    "hall": "Hall 5",
+    "booth": "5P02",
+    "languages": [
+      "German",
+      "English"
+    ],
+    "blurb": "Self-taught German freelance illustrator and Bunny VTuber working in character illustration, character design and VTuber model art. Heavy Genshin Impact fanart practice (Ganyu, Mona, Eula, Keqing) plus Hololive (Ceres Fauna, #faunline / #FineFaunart) and VShojo (Silvervale, #DoodleVale). SFW and NSFW versions sold via her shop and Patreon (placement in DoKomi 18+ Fanstand confirms NSFW range). Active art-streamer on Twitch.",
+    "socials": {
+      "instagram": "@sailorleyla",
+      "twitter": "@SailorLeyla"
+    },
+    "links": [
+      {
+        "label": "sailorleyla.art",
+        "url": "https://www.sailorleyla.art/"
+      },
+      {
+        "label": "patreon.com",
+        "url": "https://patreon.com/sailorleyla"
+      },
+      {
+        "label": "twitch.tv",
+        "url": "https://twitch.tv/sailorleyla"
+      }
+    ]
+  },
+  {
+    "slug": "kiwi",
+    "goesBy": "Kiwi",
+    "hall": "Hall 3",
+    "booth": "3B28",
+    "languages": [
+      "English"
+    ],
+    "blurb": "Canadian illustrator with a glossy, glowing-translucent digital aesthetic; video-game and anime themed original characters and fanart. Strong product line of fidget-toy enamel pins (with spring mechanisms), acrylic charms, standees, gold-foil prints, waterproof stickers and trading cards via toasterkiwi.shop, plus Twitch emote/alert and animation commissions.",
+    "socials": {
+      "instagram": "@toasterkiwi",
+      "twitter": "@ToasterKiwi"
+    },
+    "links": [
+      {
+        "label": "toasterkiwi.shop",
+        "url": "https://toasterkiwi.shop"
+      }
+    ]
+  },
+  {
+    "slug": "wonni",
+    "goesBy": "Wonni",
+    "hall": "Hall 5",
+    "booth": "5J52",
+    "languages": [
+      "English"
+    ],
+    "blurb": "Triple-threat creator working as anime-style illustrator, cosplayer and Twitch art-streamer; pitches herself as 'turning internet culture and real life into anime art'. Takes character commissions (half-body €500, full-body €600), does merch designs and webtoon-style work, and streams art process to ~350 average viewers.",
+    "socials": {
+      "instagram": "@wonnikon",
+      "twitter": "@Wonni__"
+    },
+    "links": [
+      {
+        "label": "wonni.art",
+        "url": "https://wonni.art"
+      },
+      {
+        "label": "youtube.com",
+        "url": "https://www.youtube.com/@Wonni__"
+      },
+      {
+        "label": "twitch.tv",
+        "url": "https://www.twitch.tv/wonni"
+      }
+    ]
+  },
+  {
+    "slug": "yen",
+    "goesBy": "Yen",
+    "hall": "Hall 3",
+    "booth": "3C50",
+    "languages": [
+      "German",
+      "English",
+      "Vietnamese"
+    ],
+    "blurb": "Germany-based manga-style illustrator and media-design student (game design focus). Draws semi-realistic anime girls with strong Studio Ghibli scene influence; recurring fanart subjects include Genshin Impact (e.g. Yae Miko). Sells prints, stickers and merch via Etsy. Drawing since childhood, citing Sailor Moon and Spirited Away as her formative inspirations. Bio explicitly states \"🚫 NO AI 🚫\" so she's anti-generative-AI.",
+    "socials": {
+      "instagram": "@yenaiiru"
+    },
+    "links": []
+  },
+  {
+    "slug": "yenko",
+    "goesBy": "yenko",
+    "hall": "Hall 10",
+    "booth": "10E14",
+    "languages": [
+      "English",
+      "Japanese"
+    ],
+    "blurb": "Freelance illustrator and VTuber with official commercial credits including Hololive, Hatsune Miku: Colorful Stage, GamerSupps VCard, HYTE and Limealicious. Bilingual EN/JA portfolio site (yenkoes.com) covers original art, fanart and commercial work; sells fanart and original-character merch at conventions, runs Patreon, and streams art on Twitch.",
+    "socials": {
+      "instagram": "@yenkoes",
+      "twitter": "@yenkoes"
+    },
+    "links": [
+      {
+        "label": "yenkoes.com",
+        "url": "https://www.yenkoes.com"
+      },
+      {
+        "label": "twitch.tv",
+        "url": "https://www.twitch.tv/yenkoes"
+      }
+    ]
+  },
+  {
+    "slug": "yocci",
+    "goesBy": "Yocci",
+    "hall": "Hall 5",
+    "booth": "5N03",
+    "languages": [
+      "English",
+      "Japanese"
+    ],
+    "blurb": "VTuber/VSinger (\"I draw and sing\"), freelance illustrator and character designer under the VYUGEN talent house. Red Oni mascot OC \"Akumi\"; signature recurring \"strip game\" NSFW series under #akumillust on her dedicated alt. Has a paid GamerSupps brand sponsorship (code: YOCCI) — confirmed commercial brand deal. Joined Twitter June 2016, 24,600 posts. Profile picture art by [@yenkoes](#yenkoes) (cross-shortlist link).",
+    "socials": {
+      "twitter": "@yoclesh",
+      "instagram": "@yocleshh"
+    },
+    "links": [
+      {
+        "label": "momocci.crd.co",
+        "url": "https://momocci.crd.co"
+      }
+    ]
+  },
+  {
+    "slug": "momo",
+    "goesBy": "Momo",
+    "hall": "Hall 5",
+    "booth": "5N03",
+    "languages": [
+      "English",
+      "Spanish",
+      "Japanese"
+    ],
+    "blurb": "Argentine self-taught freelance illustrator. Official character artist for Kernelhearts. Anime-style character art and illustrations, chibis, stream graphics/emotes, Live2D VTuber rigs and frame-by-frame animation; recurring subjects include Zenless Zone Zero (Nicole Demara), Hatsune Miku (Argentina-themed) and her own original BL comic \"Scarred Heart Comic\" (#momarties OCs). Trilingual EN/ES/JA. Known for the \"Momofication\" trend (genderbending VShojo/female VTubers). Commission tiers $100-$8000+; explicitly no fetish/uncomfortable NSFW.",
+    "socials": {
+      "twitter": "@Momotexx",
+      "instagram": "@momotexx"
+    },
+    "links": [
+      {
+        "label": "momocci.crd.co",
+        "url": "https://momocci.crd.co"
+      },
+      {
+        "label": "momote.carrd.co",
+        "url": "https://momote.carrd.co"
+      }
+    ]
+  },
+  {
+    "slug": "azumayuki",
+    "goesBy": "あずまゆき先生",
+    "hall": "Hall 3",
+    "booth": "3F15",
+    "languages": [
+      "Japanese",
+      "English"
+    ],
+    "blurb": "Osaka-based published commercial mangaka and illustrator with a completed 10-volume manga series 「優等生と秘密のお仕事」(\"Yūtōsei to Himitsu no Oshigoto\" / \"The Honor Student's Secret Job\") published by Akita Shoten (Young Champion Retsu Comics imprint, started Nov 2018, 10 volumes complete). Heavy Genshin Impact fanart practice with recurring focus on Liyue characters (Shenhe / 申鶴 the standout, plus Ganyu / 甘雨 and Xianyun / 閑雲). Streams art process on YouTube. Active on the Japanese convention/event circuit and sells via Fanbox.",
+    "socials": {
+      "twitter": "@yuki_azuma",
+      "instagram": "@yuki_azuma_illustration"
+    },
+    "links": [
+      {
+        "label": "azumayuki.com",
+        "url": "https://azumayuki.com"
+      },
+      {
+        "label": "potofu.me/yukiazuma",
+        "url": "https://potofu.me/yukiazuma"
+      }
+    ]
+  }
+]

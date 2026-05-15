@@ -4,6 +4,7 @@ import { VitePWA } from 'vite-plugin-pwa';
 
 export default defineConfig({
   base: '/dokomi-2026/',
+  build: { outDir: 'docs', emptyOutDir: true },
   plugins: [
     react(),
     VitePWA({

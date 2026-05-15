@@ -7,7 +7,6 @@ Live URL: https://rossturner.github.io/dokomi-2026/
 ## Develop locally
 
 ```bash
-cd data/dokomi/convention-app
 npm install
 npm run dev
 ```
@@ -24,10 +23,12 @@ npm test
 
 ```bash
 npm run build
-npm run deploy
+git add docs
+git commit -m "build: redeploy"
+git push
 ```
 
-Pushes `dist/` to the `gh-pages` branch of `origin`. GitHub Pages serves it at the URL above within ~1 minute.
+GitHub Pages is configured to serve from `master` branch `/docs`. New commits to `docs/` go live within ~1 minute.
 
 ## Install on Android
 
@@ -41,10 +42,10 @@ Pushes `dist/` to the `gh-pages` branch of `origin`. GitHub Pages serves it at t
 The data lives at `public/convention.json`. To add or change an invitee:
 
 1. Edit `public/convention.json` directly.
-2. Optionally add a photo at `public/photos/<slug>.jpg`.
-3. `npm run build && npm run deploy`.
+2. Optionally add a photo at `public/photos/<slug>.png`.
+3. `npm run build && git add docs && git commit -m "build: data update" && git push`.
 4. Open the app on the phone while online — it auto-updates on next launch.
 
 ## Updating photos only
 
-Drop `<slug>.jpg` files into `public/photos/` (slugs match `convention.json`). Rebuild and redeploy.
+Drop `<slug>.png` files into `public/photos/` (slugs match `convention.json`). Rebuild and redeploy.
