@@ -3,3 +3,6 @@ dev-dist/
 *.tsbuildinfo
 .DS_Store
 *.log
+.idea/
+vite.config.js
+vite.config.d.ts
