@@ -118,7 +118,7 @@ Estimated bundle cost: roughly 30kb gzip combined. Acceptable for a tool used st
 4. Expanding any card renders a "Shopping plan" section below "Other links" and above the Mark contacted button.
 5. The `- [ ]` markdown checkboxes render as visible disabled inputs.
 6. Bold and italic styles render. Emoji render.
-7. All existing tests pass without modification, or with only trivial updates to fixtures that add the `shopping` field.
+7. All existing tests pass. The two test files that construct `Invitee` literals (`tests/search.test.ts` and `tests/grouping.test.ts`) are updated to add a `shopping` field to each stub. Test logic is otherwise unchanged.
 8. `npm run build` succeeds with no TypeScript errors.
 
 ## Files affected
