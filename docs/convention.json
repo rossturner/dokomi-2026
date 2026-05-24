@@ -17,7 +17,8 @@
         "label": "pixiv.net",
         "url": "https://www.pixiv.net/users/68374571"
       }
-    ]
+    ],
+    "shopping": "- [ ] True Blue artbook — €25 *(first priority)*\n- [ ] Sakamata Days artbook — €20 *(second priority, or buy both for €45)*\n- [ ] **If neither:** 4× prints — €35\n\nBudget: €20–€45"
   },
   {
     "slug": "bangsom",
@@ -37,7 +38,8 @@
         "label": "twitch.tv",
         "url": "https://www.twitch.tv/bangsom"
       }
-    ]
+    ],
+    "shopping": "- [ ] Catalogue TBC\n\nBudget: €40–€50"
   },
   {
     "slug": "beryl",
@@ -66,7 +68,8 @@
         "label": "etsy.com",
         "url": "https://www.etsy.com/shop/Blueberylpie"
       }
-    ]
+    ],
+    "shopping": "- [ ] Catalogue TBC\n\nBudget: €30"
   },
   {
     "slug": "bura",
@@ -87,7 +90,8 @@
         "label": "burasto.com",
         "url": "https://www.burasto.com/"
       }
-    ]
+    ],
+    "shopping": "- [ ] Frieren lenticular Gameboy charm *(priority)*\n- [ ] Aerith charm *(maybe)*\n- [ ] Miku print A4\n- [ ] Prices unknown\n\nBudget: €40"
   },
   {
     "slug": "cauli",
@@ -111,7 +115,8 @@
         "label": "twitch.tv",
         "url": "https://twitch.tv/cauliart"
       }
-    ]
+    ],
+    "shopping": "- [ ] Catalogue pending — check closer to the day\n\nBudget: €30"
   },
   {
     "slug": "djamila-knopf",
@@ -126,7 +131,8 @@
     "socials": {
       "instagram": "@djamilaknopf"
     },
-    "links": []
+    "links": [],
+    "shopping": "- [ ] No DoKomi catalogue — check for artbooks at table\n\nBudget: €30"
   },
   {
     "slug": "nana",
@@ -151,7 +157,8 @@
         "label": "patreon.com",
         "url": "https://patreon.com/expulse_d"
       }
-    ]
+    ],
+    "shopping": "- [ ] No catalogue, unlikely to have one — browse on the day\n\nBudget: €30"
   },
   {
     "slug": "feihai",
@@ -172,7 +179,8 @@
         "label": "artstation.com",
         "url": "https://www.artstation.com/feihai"
       }
-    ]
+    ],
+    "shopping": "- [ ] No catalogue, unlikely to have one — browse on the day\n\nBudget: €30"
   },
   {
     "slug": "hanh-chu",
@@ -192,7 +200,8 @@
         "label": "hanhchustore.etsy.com",
         "url": "https://hanhchustore.etsy.com"
       }
-    ]
+    ],
+    "shopping": "- [ ] 18+ artbook *(priority — if available at the table)*\n- [ ] **If not:** AoD acrylic charm + ZZZ charms depending on bundle price\n- [ ] Previous con catalogue exists but no prices & limited items of interest\n\nBudget: €30"
   },
   {
     "slug": "jk",
@@ -207,7 +216,8 @@
       "instagram": "@jdotkdot5",
       "twitter": "@jdotkdot5"
     },
-    "links": []
+    "links": [],
+    "shopping": "- [ ] No catalogue expected — browse on the day\n\nBudget: €30"
   },
   {
     "slug": "lucid",
@@ -222,7 +232,8 @@
       "instagram": "@lucidskyart",
       "twitter": "@Lu_cid_sky"
     },
-    "links": []
+    "links": [],
+    "shopping": "- [ ] Nicole ZZZ standee *(priority)*\n- [ ] Frieren acrylic block *(maybe)*\n- [ ] Prints to fill remaining budget as appropriate\n- [ ] Based on previous catalogue, not confirmed for DoKomi\n\nBudget: €30"
   },
   {
     "slug": "miyu",
@@ -251,7 +262,8 @@
         "label": "miiyu.fanbox.cc",
         "url": "https://miiyu.fanbox.cc"
       }
-    ]
+    ],
+    "shopping": "- [ ] Gold foil A3 print — up to €30 *(priority)*\n- [ ] **Or:** 2× A4 gold foil prints, or browse other A4 prints — €10 each\n\nBudget: €30"
   },
   {
     "slug": "nai",
@@ -279,7 +291,8 @@
         "label": "naiilink.carrd.co",
         "url": "https://naiilink.carrd.co"
       }
-    ]
+    ],
+    "shopping": "- [ ] Illustration zine *(priority, price TBC)*\n- [ ] **If not:** mix of prints\n\nBudget: €30"
   },
   {
     "slug": "namii",
@@ -302,7 +315,8 @@
         "label": "patreon.com",
         "url": "https://patreon.com/namiorii"
       }
-    ]
+    ],
+    "shopping": "- [ ] Hololive fanbook — €40 *(priority pick, if available)*\n- [ ] **If not:** Prints N4, N5, N6, N8 in A4 → **€30 total** *(buy 3 get 1 free)*\n\nBudget: €30–€40"
   },
   {
     "slug": "pinlin",
@@ -322,42 +336,8 @@
         "label": "pinlin.carrd.co",
         "url": "https://pinlin.carrd.co/"
       }
-    ]
-  },
-  {
-    "slug": "lvl",
-    "goesBy": "lvl",
-    "hall": "Hall 3",
-    "booth": "3K49",
-    "languages": [
-      "Cantonese",
-      "English",
-      "Mandarin",
-      "Japanese"
     ],
-    "blurb": "Hong Kong-based freelance illustrator with 10+ years industry experience (3 years storyboarding in Sydney, 4 years motion graphics in Hong Kong; UNSW digital media graduate, 2012). Heavy Nijisanji EN/JP fanart focus plus paid VTuber merchandise commissions (Shoto 2024, brookiecookieVR 2023). Full creative service offering: digital illustration, logo design, packaging design, motion graphics, plus traditional outputs (prints, manga, pins, acrylics, fabric merch, t-shirts). Tools: Clip Studio Pro, Photoshop, Illustrator, After Effects.",
-    "socials": {
-      "instagram": "@_lvlg",
-      "twitter": "@lvlg_illust"
-    },
-    "links": [
-      {
-        "label": "lvlg.weebly.com",
-        "url": "https://lvlg.weebly.com/"
-      },
-      {
-        "label": "etsy.com",
-        "url": "https://www.etsy.com/shop/PolarisNoIII"
-      },
-      {
-        "label": "inprnt.com",
-        "url": "https://www.inprnt.com/profile/_lvlg/"
-      },
-      {
-        "label": "poipiku.com",
-        "url": "https://poipiku.com/404160/"
-      }
-    ]
+    "shopping": "- [ ] Sketch artbook — €30 *(priority, if available)*\n- [ ] **If not:** 4× A4 prints — €45 *(buy 3 get 1 free)*\n\nBudget: €30–€45"
   },
   {
     "slug": "ruca",
@@ -385,7 +365,8 @@
         "label": "patreon.com",
         "url": "https://patreon.com/rucarachi"
       }
-    ]
+    ],
+    "shopping": "- [ ] Catalogue coming soon — check before the day\n- [ ] ⚠️ Likely won't be at table — plan for unattended browse\n\nBudget: €30"
   },
   {
     "slug": "sabs",
@@ -404,7 +385,8 @@
         "label": "getink.app",
         "url": "https://www.getink.app/artists/sabstars"
       }
-    ]
+    ],
+    "shopping": "- [ ] No catalogue — browse on the day\n\nBudget: €30"
   },
   {
     "slug": "leyla",
@@ -433,7 +415,8 @@
         "label": "twitch.tv",
         "url": "https://twitch.tv/sailorleyla"
       }
-    ]
+    ],
+    "shopping": "- [ ] Prints only, prices TBC\n\nBudget: €30"
   },
   {
     "slug": "kiwi",
@@ -453,51 +436,8 @@
         "label": "toasterkiwi.shop",
         "url": "https://toasterkiwi.shop"
       }
-    ]
-  },
-  {
-    "slug": "wonni",
-    "goesBy": "Wonni",
-    "hall": "Hall 5",
-    "booth": "5J52",
-    "languages": [
-      "English"
     ],
-    "blurb": "Triple-threat creator working as anime-style illustrator, cosplayer and Twitch art-streamer; pitches herself as 'turning internet culture and real life into anime art'. Takes character commissions (half-body €500, full-body €600), does merch designs and webtoon-style work, and streams art process to ~350 average viewers.",
-    "socials": {
-      "instagram": "@wonnikon",
-      "twitter": "@Wonni__"
-    },
-    "links": [
-      {
-        "label": "wonni.art",
-        "url": "https://wonni.art"
-      },
-      {
-        "label": "youtube.com",
-        "url": "https://www.youtube.com/@Wonni__"
-      },
-      {
-        "label": "twitch.tv",
-        "url": "https://www.twitch.tv/wonni"
-      }
-    ]
-  },
-  {
-    "slug": "yen",
-    "goesBy": "Yen",
-    "hall": "Hall 3",
-    "booth": "3C50",
-    "languages": [
-      "German",
-      "English",
-      "Vietnamese"
-    ],
-    "blurb": "Germany-based manga-style illustrator and media-design student (game design focus). Draws semi-realistic anime girls with strong Studio Ghibli scene influence; recurring fanart subjects include Genshin Impact (e.g. Yae Miko). Sells prints, stickers and merch via Etsy. Drawing since childhood, citing Sailor Moon and Spirited Away as her formative inspirations. Bio explicitly states \"🚫 NO AI 🚫\" so she's anti-generative-AI.",
-    "socials": {
-      "instagram": "@yenaiiru"
-    },
-    "links": []
+    "shopping": "- [ ] No catalogue — browse on the day\n\nBudget: €30"
   },
   {
     "slug": "yenko",
@@ -522,7 +462,8 @@
         "label": "twitch.tv",
         "url": "https://www.twitch.tv/yenkoes"
       }
-    ]
+    ],
+    "shopping": "- [ ] Artbook Prelude *(priority, price TBC)*\n- [ ] **If not:** Prints 25, 7, 13 — buy 2 get 1 free\n- [ ] ⭐ Mini stamp rally — completing here counts toward the rally!\n\nBudget: €30"
   },
   {
     "slug": "yocci",
@@ -543,7 +484,8 @@
         "label": "momocci.crd.co",
         "url": "https://momocci.crd.co"
       }
-    ]
+    ],
+    "shopping": "*Joint table with Momo*\n\n- [ ] Nicole print P14 — €15\n- [ ] Momo print P1 — €15\n- [ ] Art zine — €40 *(priority)*\n- [ ] **Or:** 18+ doujin — €40 *(if zine unavailable)*\n\nBudget: €30 prints only · €70 with zine/doujin"
   },
   {
     "slug": "momo",
@@ -569,7 +511,8 @@
         "label": "momote.carrd.co",
         "url": "https://momote.carrd.co"
       }
-    ]
+    ],
+    "shopping": "*Joint table with Yocci*\n\n- [ ] Nicole print P14 — €15\n- [ ] Momo print P1 — €15\n- [ ] Art zine — €40 *(priority)*\n- [ ] **Or:** 18+ doujin — €40 *(if zine unavailable)*\n\nBudget: €30 prints only · €70 with zine/doujin"
   },
   {
     "slug": "azumayuki",
@@ -594,6 +537,7 @@
         "label": "potofu.me/yukiazuma",
         "url": "https://potofu.me/yukiazuma"
       }
-    ]
+    ],
+    "shopping": "- [ ] ZZZ artbook *(priority — 2 available, choose on the day)*\n- [ ] **If not:** prints *(prices TBC from catalogue)*\n\nBudget: €30"
   }
 ]
