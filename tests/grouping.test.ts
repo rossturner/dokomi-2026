@@ -11,6 +11,7 @@ const stub = (slug: string, hall: string): Invitee => ({
   blurb: '',
   socials: {},
   links: [],
+  shopping: '',
 });
 
 describe('groupAndSortByHall', () => {

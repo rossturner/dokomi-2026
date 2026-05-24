@@ -18,6 +18,7 @@ export type Invitee = {
   blurb: string;
   socials: Social;
   links: Link[];
+  shopping: string;
 };
 
 export type ContactedMap = Record<string, boolean>;

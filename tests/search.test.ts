@@ -11,6 +11,7 @@ const stub = (goesBy: string): Invitee => ({
   blurb: '',
   socials: {},
   links: [],
+  shopping: '',
 });
 
 describe('filterBySearch', () => {

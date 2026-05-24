@@ -17,7 +17,8 @@
         "label": "pixiv.net",
         "url": "https://www.pixiv.net/users/68374571"
       }
-    ]
+    ],
+    "shopping": ""
   },
   {
     "slug": "bangsom",
@@ -37,7 +38,8 @@
         "label": "twitch.tv",
         "url": "https://www.twitch.tv/bangsom"
       }
-    ]
+    ],
+    "shopping": ""
   },
   {
     "slug": "beryl",
@@ -66,7 +68,8 @@
         "label": "etsy.com",
         "url": "https://www.etsy.com/shop/Blueberylpie"
       }
-    ]
+    ],
+    "shopping": ""
   },
   {
     "slug": "bura",
@@ -87,7 +90,8 @@
         "label": "burasto.com",
         "url": "https://www.burasto.com/"
       }
-    ]
+    ],
+    "shopping": ""
   },
   {
     "slug": "cauli",
@@ -111,7 +115,8 @@
         "label": "twitch.tv",
         "url": "https://twitch.tv/cauliart"
       }
-    ]
+    ],
+    "shopping": ""
   },
   {
     "slug": "djamila-knopf",
@@ -126,7 +131,8 @@
     "socials": {
       "instagram": "@djamilaknopf"
     },
-    "links": []
+    "links": [],
+    "shopping": ""
   },
   {
     "slug": "nana",
@@ -151,7 +157,8 @@
         "label": "patreon.com",
         "url": "https://patreon.com/expulse_d"
       }
-    ]
+    ],
+    "shopping": ""
   },
   {
     "slug": "feihai",
@@ -172,7 +179,8 @@
         "label": "artstation.com",
         "url": "https://www.artstation.com/feihai"
       }
-    ]
+    ],
+    "shopping": ""
   },
   {
     "slug": "hanh-chu",
@@ -192,7 +200,8 @@
         "label": "hanhchustore.etsy.com",
         "url": "https://hanhchustore.etsy.com"
       }
-    ]
+    ],
+    "shopping": ""
   },
   {
     "slug": "jk",
@@ -207,7 +216,8 @@
       "instagram": "@jdotkdot5",
       "twitter": "@jdotkdot5"
     },
-    "links": []
+    "links": [],
+    "shopping": ""
   },
   {
     "slug": "lucid",
@@ -222,7 +232,8 @@
       "instagram": "@lucidskyart",
       "twitter": "@Lu_cid_sky"
     },
-    "links": []
+    "links": [],
+    "shopping": ""
   },
   {
     "slug": "miyu",
@@ -251,7 +262,8 @@
         "label": "miiyu.fanbox.cc",
         "url": "https://miiyu.fanbox.cc"
       }
-    ]
+    ],
+    "shopping": ""
   },
   {
     "slug": "nai",
@@ -279,7 +291,8 @@
         "label": "naiilink.carrd.co",
         "url": "https://naiilink.carrd.co"
       }
-    ]
+    ],
+    "shopping": ""
   },
   {
     "slug": "namii",
@@ -302,7 +315,8 @@
         "label": "patreon.com",
         "url": "https://patreon.com/namiorii"
       }
-    ]
+    ],
+    "shopping": ""
   },
   {
     "slug": "pinlin",
@@ -322,42 +336,8 @@
         "label": "pinlin.carrd.co",
         "url": "https://pinlin.carrd.co/"
       }
-    ]
-  },
-  {
-    "slug": "lvl",
-    "goesBy": "lvl",
-    "hall": "Hall 3",
-    "booth": "3K49",
-    "languages": [
-      "Cantonese",
-      "English",
-      "Mandarin",
-      "Japanese"
     ],
-    "blurb": "Hong Kong-based freelance illustrator with 10+ years industry experience (3 years storyboarding in Sydney, 4 years motion graphics in Hong Kong; UNSW digital media graduate, 2012). Heavy Nijisanji EN/JP fanart focus plus paid VTuber merchandise commissions (Shoto 2024, brookiecookieVR 2023). Full creative service offering: digital illustration, logo design, packaging design, motion graphics, plus traditional outputs (prints, manga, pins, acrylics, fabric merch, t-shirts). Tools: Clip Studio Pro, Photoshop, Illustrator, After Effects.",
-    "socials": {
-      "instagram": "@_lvlg",
-      "twitter": "@lvlg_illust"
-    },
-    "links": [
-      {
-        "label": "lvlg.weebly.com",
-        "url": "https://lvlg.weebly.com/"
-      },
-      {
-        "label": "etsy.com",
-        "url": "https://www.etsy.com/shop/PolarisNoIII"
-      },
-      {
-        "label": "inprnt.com",
-        "url": "https://www.inprnt.com/profile/_lvlg/"
-      },
-      {
-        "label": "poipiku.com",
-        "url": "https://poipiku.com/404160/"
-      }
-    ]
+    "shopping": ""
   },
   {
     "slug": "ruca",
@@ -385,7 +365,8 @@
         "label": "patreon.com",
         "url": "https://patreon.com/rucarachi"
       }
-    ]
+    ],
+    "shopping": ""
   },
   {
     "slug": "sabs",
@@ -404,7 +385,8 @@
         "label": "getink.app",
         "url": "https://www.getink.app/artists/sabstars"
       }
-    ]
+    ],
+    "shopping": ""
   },
   {
     "slug": "leyla",
@@ -433,7 +415,8 @@
         "label": "twitch.tv",
         "url": "https://twitch.tv/sailorleyla"
       }
-    ]
+    ],
+    "shopping": ""
   },
   {
     "slug": "kiwi",
@@ -453,51 +436,8 @@
         "label": "toasterkiwi.shop",
         "url": "https://toasterkiwi.shop"
       }
-    ]
-  },
-  {
-    "slug": "wonni",
-    "goesBy": "Wonni",
-    "hall": "Hall 5",
-    "booth": "5J52",
-    "languages": [
-      "English"
     ],
-    "blurb": "Triple-threat creator working as anime-style illustrator, cosplayer and Twitch art-streamer; pitches herself as 'turning internet culture and real life into anime art'. Takes character commissions (half-body €500, full-body €600), does merch designs and webtoon-style work, and streams art process to ~350 average viewers.",
-    "socials": {
-      "instagram": "@wonnikon",
-      "twitter": "@Wonni__"
-    },
-    "links": [
-      {
-        "label": "wonni.art",
-        "url": "https://wonni.art"
-      },
-      {
-        "label": "youtube.com",
-        "url": "https://www.youtube.com/@Wonni__"
-      },
-      {
-        "label": "twitch.tv",
-        "url": "https://www.twitch.tv/wonni"
-      }
-    ]
-  },
-  {
-    "slug": "yen",
-    "goesBy": "Yen",
-    "hall": "Hall 3",
-    "booth": "3C50",
-    "languages": [
-      "German",
-      "English",
-      "Vietnamese"
-    ],
-    "blurb": "Germany-based manga-style illustrator and media-design student (game design focus). Draws semi-realistic anime girls with strong Studio Ghibli scene influence; recurring fanart subjects include Genshin Impact (e.g. Yae Miko). Sells prints, stickers and merch via Etsy. Drawing since childhood, citing Sailor Moon and Spirited Away as her formative inspirations. Bio explicitly states \"🚫 NO AI 🚫\" so she's anti-generative-AI.",
-    "socials": {
-      "instagram": "@yenaiiru"
-    },
-    "links": []
+    "shopping": ""
   },
   {
     "slug": "yenko",
@@ -522,7 +462,8 @@
         "label": "twitch.tv",
         "url": "https://www.twitch.tv/yenkoes"
       }
-    ]
+    ],
+    "shopping": ""
   },
   {
     "slug": "yocci",
@@ -543,7 +484,8 @@
         "label": "momocci.crd.co",
         "url": "https://momocci.crd.co"
       }
-    ]
+    ],
+    "shopping": ""
   },
   {
     "slug": "momo",
@@ -569,7 +511,8 @@
         "label": "momote.carrd.co",
         "url": "https://momote.carrd.co"
       }
-    ]
+    ],
+    "shopping": ""
   },
   {
     "slug": "azumayuki",
@@ -594,6 +537,7 @@
         "label": "potofu.me/yukiazuma",
         "url": "https://potofu.me/yukiazuma"
       }
-    ]
+    ],
+    "shopping": ""
   }
 ]
