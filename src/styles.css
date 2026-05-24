@@ -115,3 +115,26 @@ html, body, #root {
   font-weight: 600;
   cursor: pointer;
 }
+
+.card-shopping ul {
+  list-style: none;
+  padding-left: 0;
+  margin: 0.25rem 0;
+}
+.card-shopping li {
+  padding: 0.15rem 0;
+  line-height: 1.4;
+}
+.card-shopping input[type="checkbox"] {
+  margin-right: 0.5rem;
+  vertical-align: middle;
+  pointer-events: none;
+}
+.card-shopping em {
+  color: rgba(255, 255, 255, 0.65);
+  font-style: italic;
+}
+.card-shopping p {
+  margin: 0.5rem 0 0 0;
+  font-weight: 500;
+}

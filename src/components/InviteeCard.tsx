@@ -1,4 +1,6 @@
 import { useState } from 'react';
+import ReactMarkdown from 'react-markdown';
+import remarkGfm from 'remark-gfm';
 import type { Invitee } from '../lib/types';
 import { Avatar } from './Avatar';
 
@@ -77,6 +79,10 @@ export function InviteeCard({ invitee, contacted, onToggleContacted }: Props) {
               </div>
             </div>
           )}
+          <div className="card-section card-shopping">
+            <div className="card-section-label">Shopping plan</div>
+            <ReactMarkdown remarkPlugins={[remarkGfm]}>{invitee.shopping}</ReactMarkdown>
+          </div>
           <button className="card-action" onClick={() => onToggleContacted(invitee.slug)}>
             {contacted ? 'Mark not contacted' : 'Mark contacted'}
           </button>
